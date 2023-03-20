@@ -27,3 +27,4 @@ if (count($most_frequent_numbers) == 1) {
   echo "Cele mai frecvente numere sunt: " . implode(", ", $most_frequent_numbers) . "\n";
 }
 ?>
+//Soltan Alexandrina//
