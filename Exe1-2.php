@@ -17,3 +17,4 @@ $output_file = fopen("output.txt", "w");
 fwrite($output_file, implode(" ", $even_numbers) . " " . implode(" ", $odd_numbers) . "\n");
 fclose($output_file);
 ?>
+//Soltan Alexandrina//
