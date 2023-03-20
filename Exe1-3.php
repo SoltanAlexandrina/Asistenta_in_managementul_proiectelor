@@ -20,4 +20,4 @@ foreach ($counters as $number => $count) {
 }
 fclose($output_file);
 ?>
- //Soltan Alexandrina//
+ //Soltan Alexandrina Vasile//
